@@ -19,7 +19,7 @@
 
 ## Technical Components
 
-### Fronend
+### Frontend
 ---
 
 ### Backend
