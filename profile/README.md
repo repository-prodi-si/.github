@@ -6,7 +6,7 @@
 
 | No  | Nama                            | NPM      | Role                     |
 | --- | ------------------------------- | ---------| ------------------------ |
-| 1   | Ariel Davis Suntoro             | -        | Project Manager          |
+| 1   | Ariel Davis Suntoro             | 10123176 | Project Manager          |
 | 2   | Abiyyu Rasyiq Muhadzzib         | 10123021 | Programmer               |
 | 3   | Liana Liman                     | -        | System Designer          |
 | 4   | Aninda Puspita Wandari          | -        | System Analyst           |
